@@ -25,7 +25,8 @@ Impute - means forecasting a past data, one that could be lost due to corrouptio
 
 *Delay in the system
 + Hence it is really important to keep in mind the deployment schenario 
-### Perfomance 1 : Data Partitioning For Time Series 
-	
+### Perfomance 1 : Data Partitioning For Time Series  
+
+Idea of fitting : Minic the fitting schenario 
 
 

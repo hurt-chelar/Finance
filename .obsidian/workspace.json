@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4a54ceaca39645ff",
+    "id": "04665cbe6f050b6f",
     "type": "split",
     "children": [
       {
-        "id": "44fb7ae489748d0d",
+        "id": "3b8ef7cd383eda34",
         "type": "tabs",
         "children": [
           {
-            "id": "926fde19c5a5307a",
+            "id": "c37a3c4701681957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vivek Menon.md",
+                "file": "Forecasting/Bussiness Analysis Using Forecasting.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0a4bfdf431a84d77",
+    "id": "3e016e35505b302f",
     "type": "split",
     "children": [
       {
-        "id": "03a1043226fce3c5",
+        "id": "891fe384b7d20754",
         "type": "tabs",
         "children": [
           {
-            "id": "36d4d73f54a62be9",
+            "id": "2ec286624ff03607",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "05f5bce0062ed3fb",
+            "id": "b2dad28f006db469",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2b81b904d0c924d1",
+            "id": "037237f4828fcf17",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "0cd018bdd1520a24",
+    "id": "1252da716bed11dd",
     "type": "split",
     "children": [
       {
-        "id": "fc321024e276a7c5",
+        "id": "aff934dceadf1a74",
         "type": "tabs",
         "children": [
           {
-            "id": "953403e15d0361e6",
+            "id": "53daf0796d3f4972",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vivek Menon.md",
+                "file": "Forecasting/Bussiness Analysis Using Forecasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "f75a5fa143165c75",
+            "id": "503aa8c87a156323",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vivek Menon.md",
+                "file": "Forecasting/Bussiness Analysis Using Forecasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ff55ecc44323108d",
+            "id": "78e11cdec8437c76",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "459d0097f2bd5107",
+            "id": "f63506b1242814e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vivek Menon.md"
+                "file": "Forecasting/Bussiness Analysis Using Forecasting.md"
               }
             }
           }
@@ -136,6 +136,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "926fde19c5a5307a",
-  "lastOpenFiles": []
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c37a3c4701681957",
+  "lastOpenFiles": [
+    "Vivek Menon.md",
+    "Untitled.canvas",
+    "README.md"
+  ]
 }
